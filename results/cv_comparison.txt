@@ -1,0 +1,12 @@
+Comparaison — StratifiedKFold(n_splits=4, shuffle=True, random_state=42)
+Vectorisation : TfidfVectorizer(ngram_range=(1, 2)), dans un Pipeline sklearn.
+LogisticRegression  accuracy=0.375  macro_f1=0.375
+LinearSVC           accuracy=0.375  macro_f1=0.375
+
+Modèle retenu : LogisticRegression.
+Raison : les deux modèles sont comparables sur 24 textes, mais seule la
+régression logistique fournit predict_proba, exigé par le champ confiance.
+
+Le modèle sauvegardé est réentraîné sur les 24 textes. Le test externe
+utilise les 18 transcriptions de référence (images.csv + audios.csv).
+Test externe  accuracy=0.833  macro_f1=0.833

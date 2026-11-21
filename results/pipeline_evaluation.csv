@@ -1,0 +1,73 @@
+﻿fichier,source,texte_extrait,texte_reference,similarite,sentiment_predit,sentiment_ref,sentiment_ok,erreur
+I01.png,image,"CAPTURE AVIS CLIEN 101.png
+
+AVIS CLIENT VÉRIFIÉ — XX***
+
+Livraison express et produit parfait !
+
+Je recommanderai sans hésiter.",AVIS CLIENT VÉRIFIÉ — ★★★★★ Livraison express et produit parfait ! Je recommanderai sans hésiter.,0.804,neutre,positif,False,
+I02.png,image,"CAPTURE AVIS CLIEN 102.png
+
+RÉCLAMATION COMMANDE #9921
+
+Colis ouvert et article manquant.
+
+Service client injoignable, inadmissible !","RÉCLAMATION COMMANDE #9921 Colis ouvert et article manquant. Service client injoignable, inadmissible !",0.856,négatif,negatif,True,
+I03.png,image,"CAPTURE AVIS CLIENT — 103.png
+
+SUIVI DE LIVRAISON #4510
+
+Votre colis a été déposé en point relais.
+
+Poids du paquet : 1,2 kg.","SUIVI DE LIVRAISON #4510 Votre colis a été déposé en point relais. Poids du paquet : 1,2 kg.",0.829,neutre,neutre,True,
+I04.png,image,"CAPTURE AVIS CLIENT — 104.png
+
+POST RÉSEAU SOCIAL — @ClientHeureux
+
+Incroyable qualité pour ce prix !
+
+Merci pour la rapidité d'expédition.",POST RÉSEAU SOCIAL — @ClientHeureux Incroyable qualité pour ce prix ! Merci pour la rapidité d'expédition.,0.849,positif,positif,True,
+I05.png,image,"CAPTURE AVIS CLIEN 105.png
+
+CAPTURE D'ÉCRAN — RETOUR PRODUIT
+
+L'appareil ne s'allume plus après 2 jours.
+
+Très mauvaise expérience d'achat.",CAPTURE D'ÉCRAN — RETOUR PRODUIT L'appareil ne s'allume plus après 2 jours. Très mauvaise expérience d'achat.,0.863,négatif,negatif,True,
+I06.png,image,"CAPTURE AVIS CLIEN 106.png
+
+FICHE PRODUIT — SPÉCIFICATIONS
+
+Modèle standard livré avec câble USB.
+
+Dimensions : 20 x 15 x 5 cm.",FICHE PRODUIT — SPÉCIFICATIONS Modèle standard livré avec câble USB. Dimensions : 20 x 15 x 5 cm.,0.848,neutre,neutre,True,
+I07.png,image,"CAPTURE AVIS CLIENT — 107.png
+
+NOTE DE SATISFACTION : 10/10
+
+Superbe finition et emballage impeccable.
+
+Une boutique en ligne très fiable.",NOTE DE SATISFACTION : 10/10 Superbe finition et emballage impeccable. Une boutique en ligne très fiable.,0.848,positif,positif,True,
+I08.png,image,"CAPTURE AVIS CLIEN 108.png
+
+TICKET DE CAISSE / LITIGE
+
+Erreur de facturation : montant débité deux fois.
+
+Aucun remboursement reçu à ce jour.",TICKET DE CAISSE / LITIGE Erreur de facturation : montant débité deux fois. Aucun remboursement reçu à ce jour.,0.865,négatif,negatif,True,
+I09.png,image,"CAPTURE AVIS CLIEN 109.png
+
+CONFIRMATION DE RÉCEPTION
+
+Commande #7783 bien réceptionnée.
+
+Statut : Livraison terminée.",CONFIRMATION DE RÉCEPTION Commande #7783 bien réceptionnée. Statut : Livraison terminée.,0.835,négatif,neutre,False,
+A01.wav,audio,bonjour je suis vraiment ravi de ma commande le produit est magnifique est livré très vite,"Bonjour, je suis vraiment ravi de ma commande, le produit est magnifique et livré très vite.",0.978,positif,positif,True,
+A02.wav,audio,c'est scandaleux j'ai reçu un article défectueux et personne ne répond au téléphone,"C'est scandaleux, j'ai reçu un article défectueux et personne ne répond au téléphone.",0.988,négatif,negatif,True,
+A03.wav,audio,bonjour je confirme avoir bien reçu mon colis aujourd'hui comme indiqué sur le suivi,"Bonjour, je confirme avoir bien reçu mon colis aujourd'hui comme indiqué sur le suivi.",0.988,neutre,neutre,True,
+A04.wav,audio,excellent rapport qualité-prix je recommande cette boutique les yeux fermés,"Excellent rapport qualité-prix, je recommande cette boutique les yeux fermés.",0.987,positif,positif,True,
+A05.wav,audio,très mécontent de la livraison le carton était écrasé et l'objet est inutilisable,"Très mécontent de la livraison, le carton était écrasé et l'objet est inutilisable.",0.988,positif,negatif,False,
+A06.wav,audio,le produit correspond à la description sur le site la taille est conforme,"Le produit correspond à la description sur le site, la taille est conforme.",0.986,neutre,neutre,True,
+A07.wav,audio,bravo service client pour sa réactivité et sa gentillesse 5 étoiles,"Bravo au service client pour sa réactivité et sa gentillesse, cinq étoiles !",0.923,positif,positif,True,
+A08.wav,audio,je demande le remboursement immédiat le produit ne fonctionne pas du tout,"Je demande le remboursement immédiat, le produit ne fonctionne pas du tout.",0.986,négatif,negatif,True,
+A09.wav,audio,colis récupéré en boutique ce matin tout est conforme au bon de commande,"Colis récupéré en boutique ce matin, tout est conforme au bon de commande.",0.986,neutre,neutre,True,

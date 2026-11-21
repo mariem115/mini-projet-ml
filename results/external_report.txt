@@ -1,0 +1,13 @@
+n=18
+accuracy=0.833
+macro_f1=0.833
+
+              precision    recall  f1-score   support
+
+     positif      0.833     0.833     0.833         6
+     négatif      0.833     0.833     0.833         6
+      neutre      0.833     0.833     0.833         6
+
+    accuracy                          0.833        18
+   macro avg      0.833     0.833     0.833        18
+weighted avg      0.833     0.833     0.833        18
